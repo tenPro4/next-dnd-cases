@@ -3,5 +3,5 @@ This project aims to aggregate various drag-and-drop (DND) tools and their use c
 
 # Tools
 So far, there are only two tools used, namely [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) and [dnd-kit](https://github.com/clauderic/dnd-kit)
-- react-beautiful-dnd: An excellent open-source library backed by a large and active community. Its developer-friendly design makes it easy for beginners to grasp and implement, allowing for seamless drag-and-drop functionality in React applications.
-- dnd-kit: A highly versatile library that empowers developers with extensive customization options, allowing them to override numerous aspects of the drag-and-drop experience. While its flexibility is a significant strength, beginners may find that mastering these features takes some time before they can effectively implement them in their projects.
+- **react-beautiful-dnd**: An excellent open-source library backed by a large and active community. Its developer-friendly design makes it easy for beginners to grasp and implement, allowing for seamless drag-and-drop functionality in React applications.
+- **dnd-kit**: A highly versatile library that empowers developers with extensive customization options, allowing them to override numerous aspects of the drag-and-drop experience. While its flexibility is a significant strength, beginners may find that mastering these features takes some time before they can effectively implement them in their projects.
